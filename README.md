@@ -6,3 +6,5 @@
 ## Tools & Langauge
 - Language: Python
 - IDE: Jupyter Notebook
+
+(*) In this program, any library mostly used in python for crawling was not used such as BeautifulSoup, scrapy, etc.
